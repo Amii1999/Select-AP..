@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="file:///C|/Users/Amor/Desktop/New folder (2)/css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<centre><img  src="file:///C|/Users/Amor/Desktop/New folder (2)/Select-AP 12.jpg" width="1414" height="2000" alt=""/></centre>
+</body>
+</html>
